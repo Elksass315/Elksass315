@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Elksass315
+- 👀 I’m interested in AI & Data scince
+- 🌱 I’m currently learning AI
+- 📫 How to reach me qsasomar@gmail.com

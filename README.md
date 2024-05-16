@@ -2,7 +2,7 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=Elksass315&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-[![wakatime](https://wakatime.com/badge/user/866e2327-7427-4564-adbe-69a93798bd6b/project/bd3cc611-0b63-44f6-bded-78a2df9f6183.svg)](https://wakatime.com/badge/user/866e2327-7427-4564-adbe-69a93798bd6b/project/bd3cc611-0b63-44f6-bded-78a2df9f6183)
+[![wakatime](https://wakatime.com/badge/user/866e2327-7427-4564-adbe-69a93798bd6b.svg)](https://wakatime.com/@866e2327-7427-4564-adbe-69a93798bd6b)
 
 <a href="https://github.com/Elksass315">
  <img src="https://github.githubassets.com/images/modules/site/social-cards/github-social.png" />

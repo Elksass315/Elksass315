@@ -10,7 +10,7 @@
 
 <h1 align="center">Hi There<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Omar Elksass</h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&center=true&vCenter=true&random=false&width=500&lines=Back-End+Developer;Computer+Science+Undergraduate" alt="Typing SVG" /></a></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&center=true&vCenter=true&random=false&width=500&lines=Back-End+Developer;Bachelor of AI" alt="Typing SVG" /></a></a>
 </p>
 <hr/>
 

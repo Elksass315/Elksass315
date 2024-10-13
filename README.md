@@ -59,9 +59,9 @@
 
 
 [![Agri-tech360](https://github-readme-stats.vercel.app/api/pin/?username=Elksass315&repo=Agri-tech360&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Elksass315/Agri-tech360)
-[![alx-higher_level_programming](https://github-readme-stats.vercel.app/api/pin/?username=Elksass315&repo=alx-higher_level_programming&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Elksass315/alx-higher_level_programming)
-[![alx-system_engineering-devops](https://github-readme-stats.vercel.app/api/pin/?username=Elksass315&repo=alx-system_engineering-devops&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Elksass315/alx-system_engineering-devops)
-[![Elksass Readme](https://github-readme-stats.vercel.app/api/pin/?username=Elksass315&repo=Elksass315&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Elksass315/Elksass315)
+[![Node Weather](https://github-readme-stats.vercel.app/api/pin/?username=Elksass315&repo=node_Weather&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Elksass315/node_Weather)
+[![Markdown-Note-taking](https://github-readme-stats.vercel.app/api/pin/?username=Elksass315&repo=Markdown-Note-taking&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Elksass315/Markdown-Note-taking)
+[![no chat](https://github-readme-stats.vercel.app/api/pin/?username=Elksass315&repo=no_chat&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Elksass315/no_chat)
 
 <p align="left">
   <a href="https://github.com/Elksass315?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
